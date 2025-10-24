@@ -2,6 +2,7 @@ syntax="proto3";
 
 package auth;
 
+
 option go_package = "aza.sso.v1;sso";
 
 service Auth {
